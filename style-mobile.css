@@ -1,0 +1,451 @@
+@media screen and (min-width:320px) and (max-width:517px){
+    .header{
+        height: 100px;
+    }
+    .header #lang a img{
+        width: 30px;
+        margin-inline-start: 5%;
+        margin-top: 60px;
+    }
+    .header .last-head{
+        float: right;
+        margin-top: -80px;
+    }
+    .header .last-head a{
+        text-decoration: none;
+    }
+    .header .logo img{
+        width: 60px;
+        height: 60px;
+        padding: 0 50px;
+        margin-top: 75%;
+        margin-left: -5px;
+        /* line-height: 20%; */
+    }
+    .header ul li {
+        display: inline-block;
+        margin: 0 10px;
+        /* line-height: 80px; */
+    }
+    .header nav .share{
+        padding: .5rem 0;
+        margin-top: -60px;
+        margin-left: -22%;
+    }
+    .header nav .share li a {
+        height: 1rem;
+        width: 1.5rem;
+        /* text-align: center; */
+        font-size: 1rem;
+        color:darkgreen;
+        /* margin:.3rem; */
+        border: 4px solid darkgreen;
+        border-radius: 50%;
+        padding-top: .5rem;
+        padding-bottom: .3rem;
+    }
+    .header nav .share li a:hover{
+        color: white;
+        background-color: darkgreen;
+        border: 4px solid white;
+        transition: .5s;
+    }
+    .header div img{
+        width: 20px;
+        height: 20px;
+        margin-top: 63px;
+        margin-left: 20%;
+    } 
+    .header .last-head #cart-btn #count-el{
+        font-size: 15px;
+        margin-top: 50px;
+        height: .10rem;
+        width: .5rem;
+        text-align: center;
+        padding-bottom:10px;
+    }
+    .picture .pict .image{
+        width: 100%;
+        height: 180px;
+        margin-top: 100px;
+    }
+    .description .descr p{
+        height: 5.5vh;
+        font-size: 12px;
+    }
+    .description .us h3{
+        font-size: 23px;
+        margin-bottom: -10%;
+    }
+    .description .us #title{
+        text-align: end;
+        margin-right: 5%;
+    }
+    .description .us p{
+        font-size: 16px;
+        font-weight: 800;
+        line-height: 25px;
+        margin: 10px;
+        margin-right: 0;
+        padding: 20px;
+        margin-bottom: -5px;
+    }
+    .description .us #paragr{
+        text-align: end;
+        margin-bottom: -10px;
+    }
+    .description .us #paragr b{
+        visibility: hidden;
+    }
+    .aside a img{
+        width: 50px;
+        height: 50px;
+        float: left;
+        position: relative;
+        right: 20px;
+        margin-top: -55px;
+        position: fixed;
+        z-index: 100;
+    }
+    /*---------------------------------- images ------------------------- */
+    .menu .cart-items-container .cart-item img[alt="pr"]{
+        width: 150px;
+        height: 150px;
+        margin: 10px;
+        margin-bottom: 0px;
+    }
+    .menu .cart-items-container .cart-item .pic3, .cart-item .pic4{
+        position: relative;
+        left: 1px; 
+        top: -10px;
+    }
+    .menu .cart-items-container .cart-item .pic5, .cart-item .pic6{
+        position: relative;
+        top: -15px;
+    }
+    .menu .cart-items-container .cart-item .pic7, .cart-item .pic8{ 
+        position: relative;
+        left:1px;
+        top:-15px;
+    }
+    .menu .cart-items-container .cart-item .pic9, .cart-item .pic10{ 
+        position: relative;
+        left:1px;
+        top: -15px;
+    }
+    .menu .cart-items-container .cart-item .pic11, .cart-item .pic12{ 
+        position: relative;
+        left: 1px;
+        top: -15px;
+    }
+    .menu .cart-items-container .cart-item .pic13, .cart-item .pic14{ 
+        position: relative;
+        left: 1px;
+        top: -25px;
+    }
+
+
+    .menu .cart-items-container .cart-item .pic15, .cart-item .pic16{ 
+        position: relative;
+        left: 1px; 
+        top: -30px;
+    }
+    /*- ----------------------contents-------------------------------------  */
+    .menu .cart-items-container .cart-item #cont{
+        display: inline-block;
+        width: 150px;
+        height: 22vh;
+        text-align: center;
+        background-color: darkgreen;
+        color: white;
+        margin-top: -15px;
+        margin-bottom: 10%;
+    }
+    
+    .menu .cart-items-container .cart-item .content1{
+        position: relative;
+        left: -10px;
+        top: 11px;
+    }
+    .menu .cart-items-container .cart-item .content2{
+        position: relative;
+        left: 10px;
+        top: 11px;
+    }
+    .menu .cart-items-container .cart-item .content3{
+        position: relative;
+        left: -9px;
+        top: 1px;
+    }
+    .menu .cart-items-container .cart-item .content4{
+        position: relative;
+        left: 11px;
+        top: 1px;
+    }
+    .menu .cart-items-container .cart-item .content5{
+        position: relative;
+        left: -10px;
+        top: -10px;
+    }
+    .menu .cart-items-container .cart-item .content6{
+        position: relative;
+        left: 10px;
+        top: -6px;
+    }
+    .menu .cart-items-container .cart-item .content7{
+        position: relative;
+        left: -9px;
+        top: -6px;
+    }
+    .menu .cart-items-container .cart-item .content8{
+        position: relative;
+        left: 11px;
+        top: -6px;
+    }
+    .menu .cart-items-container .cart-item .content9{
+        position: relative;
+        left: -9px;
+        top: -5px;
+    }
+    .menu .cart-items-container .cart-item .content10{
+        position: relative;
+        left: 11px;
+        top: -5px;
+    }
+    .menu .cart-items-container .cart-item .content11{
+        position: relative;
+        left: -9px;
+        top: -5px;
+    }
+    .menu .cart-items-container .cart-item .content12{
+        position: relative;
+        left: 11px;
+        top: -10px;
+    }
+    .menu .cart-items-container .cart-item .content13{
+        position: relative;
+        left: -9px;
+        top: -20px;
+    }
+    .menu .cart-items-container .cart-item .content14{
+        position: relative;
+        left: 11px;
+        top: -15px;
+    }
+    .menu .cart-items-container .cart-item .content15{
+        position: relative;
+        left: -9px;
+        top: -20px;
+    }
+    .menu .cart-items-container .cart-item .content16{
+        position: relative;
+        left: 11px;
+        top: -25px;
+    }
+    .menu .cart-items-container .cart-item #cont .gouts button{
+        width: 30px;
+        height: 1.5rem;
+        font-size: 8px;
+        margin-left: 1px;
+    }
+
+    .menu .cart-items-container .cart-item #cont .gouts #ammande{
+        width:35px ;
+    }
+    .menu .cart-item #cont #arm{
+        font-size: 15px;
+        margin-left: 50px;
+    }
+    .menu .cart-items-container .cart-item #cont .prix{
+        margin-inline-start: 10px;
+        color: yellow;
+        font-size:20px;
+        font-weight: bolder;
+        margin-top: 5px;
+        margin-bottom: -20px;
+    }
+    .menu .cart-items-container .cart-item #cont #price6{
+        margin-top: -6%;
+    }
+    .menu .cart-items-container .cart-item #cont #count6{
+        margin-top: -8%;
+    }
+    .menu .cart-items-container .cart-item #cont .counter .minus{
+        font-size: 18px;
+        width: 20px; 
+        height: 22px;
+    }
+    .menu .cart-items-container .cart-item #cont .counter .h12{
+        font-size: 20px;
+        width: 15px; 
+        height: 16px;
+        position: relative;
+        top: 8px;
+    }
+    .menu .cart-items-container .cart-item #cont .counter .plus{
+        font-size: 18px;
+        width: 20px; 
+        height: 22px;
+        position: relative;
+    } 
+    .menu .cart-item #cont img{
+        width: 30px;
+        height:30px; 
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        left: 8%;
+    }
+    .menu .cart-items-container .cart-item #cont #name{
+        font-size:15px ;
+        font-weight: bolder;
+        padding-top: 3px;
+    }
+    .menu .cart-items-container .cart-item #cont .name5{
+        font-size: 17px;
+    }
+    .menu .cart-items-container .cart-item #cont .name6{
+        font-size: 13px;
+    }
+    .menu .cart-item #cont #ti{
+        font-size: 15px;
+        font-weight: bolder;
+        text-align: center;
+        width: 30px;
+        height: 20px;
+        border: 3px solid;
+        text-align: center;
+        margin-left:35% ;
+        margin-block-start: 10px;
+        border: none;
+        padding-top: 4px;
+    }
+    .menu .cart-item #cont .ti{
+        position: relative;
+        left: 10px;
+        top: -4px;
+    }
+    .menu .cart-item #cont .poids button{
+        font-size: 10px;
+        width: 30px;
+        font-weight: bolder;
+        height: 20px;
+    }
+    .menu .cart-item #cont .poids button:hover{
+        background-color: #006400;
+        color: white;
+    }
+    .footer{
+        border-top:10px solid #006400;
+        background: #006400;    
+        height: 770px;
+    }
+    #ftar{
+        border-top:10px solid #006400;
+        background: #006400;    
+        height: 800px;
+    }
+    .footer .footr{
+        margin-left: 22%;
+        width: 200px;
+        height: 200px;
+        display:block;
+        margin-top: -0.2%;
+    }
+    .footer .copy{
+        font-size: medium;
+        position: relative;
+        top: 20%;
+        left: -1px;
+    }
+    .footer .livraison{
+        display: block;
+        margin-left: 2px;
+    }
+    .footer .livraison img{
+        width: 348px;
+        height: 160px;
+    }
+    .footer .livraison .liv{
+        border: none;
+        font-size: 25px;
+        font-weight: bolder;
+        color: rgb(255, 242, 0);
+        margin-bottom: 3%;
+    }
+    .footer .livraison .liv b{
+        display: block;
+    }
+    .footer .livraison #livar{
+        border: none;
+        font-size: 25px;
+        font-weight: bolder;
+        color: rgb(255, 242, 0);
+        margin-bottom: 3%;
+    }
+    .footer .share{
+        display: inline;
+        margin-top: 20%;
+        margin-left: auto;
+    }
+    .footer .share a img{
+        margin-left: 5%;
+        width: 55px;
+        height: 55px;
+    }
+    .footer .horaire{
+        float: right;
+        margin-right: 20%;
+        margin-top: 2%;
+        font-size: 20px;
+        color: white;
+    }
+    .footer #hours{
+        float: right;
+        margin-right: 20%;
+        margin-top: 2%;
+        font-size: 18px;
+        color: white;
+        display: block;
+    }
+    .footer form{
+        float: right;
+        margin-top: 10%;
+        position: relative;
+        left: -30%;
+    }
+    
+    .footer form .suggestion input[type="text"]{
+        width: 250px;
+        height: 45px;
+        border: none;
+        border: 4px solid darkgreen;
+        border-radius: 8px;
+        margin-top: -15px;
+    }
+    .footer form input[type="text"]::placeholder{
+        color: #029243;
+        font-size: large;
+        padding: 4px;
+    }
+    footer input[id="ar"]::placeholder{
+        text-align: end;
+    }
+    .footer form button{
+        width: 90px;
+        height: 30px;
+        border: 3px solid darkgreen;
+        border-radius: 6px;
+        color: white;
+        background-color: darkgreen;
+        font-size:15px;
+        margin-right: -20px;
+        margin-top: -10%;
+    
+    }
+    .footer form button:hover{
+        background-color: white;
+        color: darkgreen;
+    }
+
+}

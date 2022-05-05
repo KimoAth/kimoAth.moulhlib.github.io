@@ -1,0 +1,389 @@
+@media screen and (min-width:518px) and (max-width:667px ) {
+    .header #lang a img{
+        margin-left: 10px;
+    }
+    .header nav .share{
+        margin-left: -30%;
+    }
+    .header nav .share li a {
+        height: 2rem;
+        width: 2.5rem;
+        font-size: 1.5rem;
+    }
+    .header .last-head{
+        /* float: right; */
+        margin-top: -80px;
+    }
+    .header div img{
+        width: 30px;
+        height: 30px;
+        margin-top: 70px;
+    } 
+    .header .last-head #cart-btn #count-el{
+        margin-top: 50px;
+    }
+    .header .last-head .logo img{
+        margin-left: -5%;
+    }
+    .description .descr p{
+        font-size: 20px;
+    }
+    .description .us h3{
+        font-size: 30px;
+    }
+    .description .us #title{
+        text-align: end;
+        margin-right: 5%;
+    }
+    .description .us p{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .description .us #paragr{
+        text-align: end;
+    }
+    .description .us #paragr b{
+        visibility: hidden;
+    }
+    .aside a img{
+        width: 40px;
+        height: 40px;
+        margin-left: 90%;
+    }
+    .menu .cart-items-container .cart-item img[alt="pr"]{
+        width: 200px;
+        height: 200px;
+    }
+    .menu .cart-items-container .cart-item .pic3, .cart-item .pic4{
+        position: relative;
+        left: 0px; 
+        top: 75px;
+    }
+    .menu .cart-items-container .cart-item .pic5, .cart-item .pic6{
+        position: relative;
+        top: 150px;
+    }
+    .menu .cart-items-container .cart-item .pic7, .cart-item .pic8{ 
+        position: relative;
+        left:1px;
+        top: 180px;
+    }
+    .menu .cart-items-container .cart-item .pic9, .cart-item .pic10{ 
+        position: relative;
+        left:1px;
+        top: 245px;
+    }
+    .menu .cart-items-container .cart-item .pic11, .cart-item .pic12{ 
+        position: relative;
+        left: 1px;
+        top: 310px;
+    }
+    .menu .cart-items-container .cart-item .pic13, .cart-item .pic14{ 
+        position: relative;
+        left: 1px;
+        top: 370px;
+    }
+    .menu .cart-items-container .cart-item .pic15, .cart-item .pic16{ 
+        position: relative;
+        left: 1px; 
+        top: 435px;
+    }
+
+
+    .menu .cart-items-container .cart-item #cont{
+        width: 200px;
+        height: 20vh;
+    }
+    .menu .cart-items-container .cart-item .content1{
+        position: relative;
+        left: -10px;
+        top: 11px;
+    }
+    .menu .cart-items-container .cart-item .content2{
+        position: relative;
+        left: 10px;
+        top: 11px;
+    }
+    .menu .cart-items-container .cart-item .content3{
+        position: relative;
+        left: -10px;
+        top: 86px;
+    }
+    .menu .cart-items-container .cart-item .content4{
+        position: relative;
+        left: 10px;
+        top: 86px;
+    }
+    .menu .cart-items-container .cart-item .content5{
+        position: relative;
+        left: -10px;
+        top: 125px;
+    }
+    .menu .cart-items-container .cart-item .content6{
+        position: relative;
+        left: 10px;
+        top: 160px;
+    }
+    .menu .cart-items-container .cart-item .content7{
+        position: relative;
+        left: -9px;
+        top: 190px;
+    }
+    .menu .cart-items-container .cart-item .content8{
+        position: relative;
+        left: 11px;
+        top: 190px;
+    }
+    .menu .cart-items-container .cart-item .content9{
+        position: relative;
+        left: -9px;
+        top: 250px;
+    }
+    .menu .cart-items-container .cart-item .content10{
+        position: relative;
+        left: 11px;
+        top: 250px;
+    }
+    .menu .cart-items-container .cart-item .content11{
+        position: relative;
+        left: -9px;
+        top: 320px;
+    }
+    .menu .cart-items-container .cart-item .content12{
+        position: relative;
+        left: 11px;
+        top: 315px;
+    }
+    .menu .cart-items-container .cart-item .content13{
+        position: relative;
+        left: -9px;
+        top: 380px;
+    }
+    .menu .cart-items-container .cart-item .content14{
+        position: relative;
+        left: 11px;
+        top: 380px;
+    }
+    .menu .cart-items-container .cart-item .content15{
+        position: relative;
+        left: -9px;
+        top: 445px;
+    }
+    .menu .cart-items-container .cart-item .content16{
+        position: relative;
+        left: 11px;
+        top: 440px;
+    }
+
+
+
+
+    .menu .cart-item #cont #name{
+        font-size: 20px;
+    }
+    .menu .cart-items-container .cart-item div .name5{
+        font-size: 20px;
+    }
+    .menu .cart-item #cont #arm{
+        margin-left: 80px;
+        margin-top: 5px;
+        text-align: center;
+        width:min-content;
+        font-size: 15px;
+        background-color: white;
+        color: #006400;
+        border: 2px solid white;
+        border-radius: 3px;
+    }
+    .menu .cart-items-container .cart-item #cont .gouts button{
+        width: 40px;
+        height: 1.5rem;
+        font-size: 10px;
+        margin-left: 1px;
+    }
+
+    .menu .cart-items-container .cart-item #cont .gouts #ammande{
+        width:45px ;
+    }
+
+    .menu .cart-item #cont #ti{
+        font-size: 15px;
+        width: 40px;
+        height: 20px;
+        margin-inline-start: 75px;
+        padding-top: 4px;
+    }
+    .menu .cart-item #cont .ti{
+        position: relative;
+        left: 10px;
+    }
+    .menu .cart-items-container .cart-item #cont .prix{
+        margin-inline-start: -20px;
+        color: yellow;
+        font-size:30px;
+        font-weight: bolder;
+        margin-top: 10px;
+        margin-bottom: -20px;
+    }
+    .menu .cart-item #cont .poids button{
+        font-size: 15px;
+        width: 40px;
+        height: 20px;
+    }
+    .menu .cart-item #cont .counter .minus{
+        width: 25px; 
+        height: 31px;
+        position: relative;
+        top: 8px;
+    }
+    .menu .cart-items-container .cart-item #cont #cp .minus{
+        width: 25px; 
+        height: 31px;
+        position: relative;
+        top: 4.5px;
+    }
+    .menu .cart-item #cont .counter .h12{
+        width: 55px; 
+        height: 25.5px;
+        
+    }
+    .menu .cart-items-container .cart-item #cont #cp .h12{
+        width: 55px; 
+        height: 25.5px;
+        position: relative;
+        top: -1px;
+    }
+    .menu .cart-item #cont .counter .plus{
+        width: 25px; 
+        height: 31px;
+        position: relative;
+        top: 8px;
+    }
+    .menu .cart-items-container .cart-item #cont #cp .plus{
+        border: 3px solid white; 
+        color: #006400;
+        /* position: relative;
+        top: -30px;
+        left: 210px; */
+        font-weight: bolder;
+        font-size: x-large;
+        width: 25px; 
+        height: 31px;
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        top: 5px;
+    } 
+    .menu .cart-item #cont img{
+        width: 35px;
+        height:35px; 
+        position: relative;
+        top: 15px;
+        left: 5%;
+    }
+
+
+    .footer{  
+        height: 900px;
+        margin-top: 500px;
+    }
+    #ftar{
+        height: 870px;
+    }
+    .footer .footr{
+        margin-left: 22%;
+        width: 250px;
+        height: 250px;
+        display:block;
+        margin-top: -0.2%;
+    }
+    .footer .copy{
+        font-size: 20px;
+        position: relative;
+        top: 20%;
+        left: -40px;
+    }
+    .footer .livraison{
+        display: block;
+        margin-left: 2px;
+    }
+    .footer .livraison img{
+        width: 350px;
+        height: 200px;
+    }
+    .footer .livraison .liv{
+        border: none;
+        font-size: 40px;
+        font-weight: bolder;
+        color: rgb(255, 242, 0);
+        margin-bottom: 3%;
+    }
+    .footer .livraison .liv b{
+        display: block;
+    }
+    .footer .livraison #livar{
+        border: none;
+        font-size: 30px;
+        font-weight: bolder;
+        color: rgb(255, 242, 0);
+        margin-bottom: 3%;
+    }
+
+    .footer .share{
+        display: inline;
+        margin-top: 20%;
+        margin-left: auto;
+    }
+    .footer .share a img{
+        margin-left: 5%;
+        width: 55px;
+        height: 55px;
+    }
+    .footer .horaire{
+        float: right;
+        /* margin-right: 20%; */
+        margin-top: 2%;
+        font-size: 20px;
+        color: white;
+    }
+    .footer #hours{
+        float: right;
+        margin-right: 20%;
+        margin-top: 2%;
+        font-size: 18px;
+        color: white;
+        display: block;
+    }
+    .footer form button{
+        width: 100px;
+        height: 40px;
+        border: 3px solid darkgreen;
+        border-radius: 6px;
+        color: white;
+        background-color: darkgreen;
+        font-size: 15px;
+        margin-right: -20px;
+    }
+    .footer form .suggestion input[type="text"]{
+        width: 250px;
+        height: 50px;
+        border: none;
+        border: 4px solid darkgreen;
+        border-radius: 8px;
+        margin-top: -15px;
+    }
+    .footer form .suggestion #ar{
+        width: 250px;
+        height: 50px;
+        border: none;
+        border: 4px solid darkgreen;
+        border-radius: 8px;
+        margin-top: -15px;
+    }
+    .footer form{
+        position: relative;
+        top: 10%;
+    }
+
+
+}

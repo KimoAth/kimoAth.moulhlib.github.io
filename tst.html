@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test-panier</title>
+    <style>
+
+        h1{
+            font-size: larger;
+            background-color: darkgreen;
+            color: white;
+        }
+        div ul{
+            width: 300px;
+            height: 500px;
+            background-color: darkgreen;
+
+        }
+        div ul li{
+            list-style-type: none;
+        }
+        div ul li a{
+            text-decoration: none;
+            color: white;
+            display: block;
+            margin-bottom: 5%;
+            margin-left: 45%;
+            font-size: 20px;
+        }
+        div ul li img{
+            width: 60px;
+            height: 60px;
+            float: left;
+            /* display: none; */
+        }
+        div ul li a div{
+            display: inline-block;
+        }
+        div ul li .counter{
+            margin-left: 40%;
+
+        }
+        div ul li button{
+            width: 20px;
+            height: 30px;
+            color: darkgreen;
+            display: inline;
+            background-color: white;
+            margin-left:5px ;
+        }
+        div ul li .h12{
+            background-color: white;
+            border: 5px solid white;
+            display: inline;
+            width: 20px;
+            height: 30px;
+            margin-left: 5px;
+        }
+        div ul li .total{
+            text-align: center;
+            height: 40px;
+            width: 300px;
+            color: darkgreen;
+            background-color: white;
+            margin:20%;
+            margin-left: -7%;
+            margin-top: 45%;
+            /* margin-bottom: 20%; */
+        }
+        div ul li .banner a{
+            color: darkgreen;
+            text-align: center;
+            margin-left: -10px;
+        }
+        div ul li .banner{
+            width: 300px;
+            height: 60px;
+            margin-top: 30%;
+            margin-bottom: 5%;
+            margin-left: -7%;
+            border: 2px solid white;
+            border-radius: 3px;
+            background-color: white;
+        }
+    </style>
+    <script>
+        function cart(){
+            let img=document.getElementById('img-cart');
+            let name=document.getElementById('name');
+            let poi=document.getElementById('poi');
+            let price=document.getElementsByClassName('total');
+            
+
+        }
+    </script>
+</head>
+<body>
+    <div id="cart-btn" class="slider-container"><img src="shopping-cart.png" alt=""><span id="count-el">0</span>
+        <ul>
+            <h1>Shopping-Cart</h1>
+            <li>
+                <img src="fb.png" alt="" id="img-cart">
+                <a href="">
+                    <div class="name">hlib -</div>
+                    <div class="poi">1L</div>
+                </a>
+                <div class="counter">
+                    <button class="minus"> - </button>
+                    <div class="h12"> 1 </div>
+                    <button class="plus"> + </button>
+                </div>
+            </li>
+            <li>
+                <div class="total">3565dh</div>
+            </li>
+            <li>
+                <button class="banner"><a href="banner.html">voir panier</a></button>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

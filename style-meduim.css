@@ -1,0 +1,254 @@
+@media screen and (min-width:969px) and (max-width:1267px) {
+    .header #lang a img{
+        margin-left: 10px;
+    }
+    .header nav .share{
+        margin-left: -30%;
+    }
+    .header nav .share li a {
+        height: 2rem;
+        width: 2.5rem;
+        font-size: 1.5rem;
+    }
+    .header .last-head{
+        /* float: right; */
+        margin-top: -80px;
+    }
+    .header a div img{
+        width: 30px;
+        height: 30px;
+        margin-top: 70px;
+    } 
+    .picture .pict img{
+        width: 100%;
+        height: 300px;
+        margin-top: 100px;
+    }
+    .header .last-head a #cart-btn #count-el{
+        margin-top: 50px;
+    }
+    .description .descr p{
+        font-size: 20px;
+        height: 10vh;
+    }
+    .description .us h3{
+        font-size: 30px;
+        margin-bottom: -40px;
+    }
+    .description .us #title{
+        text-align: end;
+        margin-right: 5%;
+    }
+    .description .us p{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .description .us #paragr{
+        text-align: end;
+    }
+    .description .us #paragr b{
+        visibility: hidden;
+    }
+    .aside a img{
+        width: 60px;
+        height:60px;
+        margin-left: 90%;
+        margin-top: -70px;
+    }
+    .menu .cart-items-container .cart-item img[alt="pr"]{
+        width: 400px;
+        height: 400px;
+    }
+    .menu .cart-items-container .cart-item #cont{
+        width: 400px;
+        /* height: 20vh; */
+    }
+    .menu .cart-item #cont #name{
+        font-size: 20px;
+    }
+    .menu .cart-item #cont #ti{
+        font-size: 15px;
+        width: 40px;
+        height: 20px;
+        margin-inline-start: 130px;
+        position: relative;
+        left: 50px;
+    }
+    .menu .cart-item #cont .ti{
+        position: relative;
+        left: 10px;
+    }
+    .menu .cart-items-container .cart-item #cont .prix{
+        margin-inline-start: -20px;
+        color: yellow;
+        font-size:30px;
+        font-weight: bolder;
+        margin-top: -5px;
+        margin-bottom: -20px;
+    }
+    .menu .cart-item #cont .poids button{
+        font-size: 15px;
+        width: 40px;
+        height: 20px;
+    }
+    .menu .cart-item #cont .counter .minus{
+        border: 3px solid white; 
+        color: #006400;
+        font-weight: bolder;
+        font-size: x-large;
+        width: 25px; 
+        height: 31px;
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        top: 8px;
+    }
+    .menu .cart-items-container .cart-item #cont #cp .minus{
+        border: 3px solid white; 
+        color: #006400;
+        font-weight: bolder;
+        font-size: x-large;
+        width: 25px; 
+        height: 31px;
+        cursor: pointer;
+        display: inline-block;
+        /* margin-top: -10%; */
+        position: relative;
+        top: 4.5px;
+    }
+    .menu .cart-item #cont .counter .h12{
+        border: 3px solid white; 
+        background-color: white;
+        font-size: large;
+        font-weight: bold;
+        color: darkgreen;
+        width: 55px; 
+        height: 25.5px;
+        display: inline-block;
+        margin-left: -1%;
+        
+    }
+    .menu .cart-items-container .cart-item #cont #cp .h12{
+        border: 3px solid white; 
+        background-color: white;
+        font-size: large;
+        font-weight: bold;
+        color: darkgreen;
+        width: 55px; 
+        height: 25.5px;
+        display: inline-block;
+        margin-left: -1%;
+        position: relative;
+        top: -1px;
+    }
+    .menu .cart-item #cont .counter .plus{
+        border: 3px solid white; 
+        color: #006400;
+        /* position: relative;
+        top: -30px;
+        left: 210px; */
+        font-weight: bolder;
+        font-size: x-large;
+        width: 25px; 
+        height: 31px;
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        top: 8px;
+    }
+    .menu .cart-items-container .cart-item #cont #cp .plus{
+        border: 3px solid white; 
+        color: #006400;
+        /* position: relative;
+        top: -30px;
+        left: 210px; */
+        font-weight: bolder;
+        font-size: x-large;
+        width: 25px; 
+        height: 31px;
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        top: 5px;
+    } 
+    .menu .cart-item #cont img{
+        width: 35px;
+        height:35px; 
+        position: relative;
+        top: 15px;
+        left: 5%;
+    }
+    .footer{
+        height: 500px;
+    }
+    #ftar{
+        height: 630px;
+    }
+    .footer .livraison .liv{
+        font-size: 30px;
+    }
+    .footer .livraison{
+        display: inline-block;
+        margin-left:-40% ;
+    }
+    .footer .share{
+        float: left;
+        display: block;
+        margin-top: -20%;
+    }
+    .footer .share a img{
+        width: 60px;
+        height: 60px;
+    }
+    .footer .horaire{
+        margin-top:-2%;
+        font-size: 25px;
+        color: white;
+        position: relative;
+        left: -30%;
+    }
+    .footer #hours{
+        font-size: 25px;
+        position: relative;
+        left: -230px;
+    } 
+    .footer form button{
+        width: 100px;
+        height: 40px;
+        border: 3px solid darkgreen;
+        border-radius: 6px;
+        color: white;
+        background-color: darkgreen;
+        font-size: 15px;
+        margin-right: -20px;
+        margin-top: -10px;
+    }
+    .footer form .suggestion input[type="text"]{
+        width: 250px;
+        height: 50px;
+        border: none;
+        border: 4px solid darkgreen;
+        border-radius: 8px;
+        margin-top: -10px;
+    }
+    .footer form .suggestion #ar{
+        width: 250px;
+        height: 50px;
+        border: none;
+        border: 4px solid darkgreen;
+        border-radius: 8px;
+        margin-top: -15px;
+    }
+    .footer form{
+        position: relative;
+        top: -40%;
+        left: 15%;
+    }
+    .footer form #sug{
+        position: relative;
+        top: 50px;
+    }
+
+
+    
+}
